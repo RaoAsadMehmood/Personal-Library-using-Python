@@ -1,0 +1,16 @@
+[
+    {
+        "title": "My autobiography",
+        "author": "Rao Asad Mehmood",
+        "year": "2025",
+        "genre": "autobiography",
+        "read": true
+    },
+    {
+        "title": "Atomic Habits",
+        "author": "James Clear",
+        "year": "2018",
+        "genre": "Self-help book",
+        "read": false
+    }
+]
